@@ -1,0 +1,1 @@
+Can you write a simple snippet to update the state of a reactjs component?
